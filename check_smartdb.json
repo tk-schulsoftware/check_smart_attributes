@@ -1797,7 +1797,7 @@
 			"Perfs" : ["194"]
 		},
 		"Western Digital Red (helium-filled)" : {
-		  "Device" : ["WDC WD80EFAX-68LHPN0", "WDC WD80EFZX-68UW8N0"],
+		  "Device" : ["WDC WD80EFAX-68LHPN0", "WDC WD80EFZX-68UW8N0", "WDC WD8005FFBX-68CAKN0"],
 			"ID#" : {
 				"1" : {"value": "VALUE", "comment": "Raw Read Error Rate"},
 				"2" : {"value": "VALUE", "comment": "Throughput Performance"},
